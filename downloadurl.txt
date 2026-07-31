@@ -1,2 +1,4 @@
 https://gh-proxy.com/github.com/qiyuchenqq/Tex.Downloader/releases/download/2.2.5/TexNEL_Release_version-2.2.5_windows64.zip
 https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.316/dotnet-sdk-9.0.316-win-x64.exe
+
+

@@ -1,0 +1,1 @@
+D:\Projects\Tex.Downloader\bin\Release\net9.0\win-x64\publish\Tex.Downloader.exe

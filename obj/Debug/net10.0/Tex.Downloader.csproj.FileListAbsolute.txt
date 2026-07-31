@@ -1,0 +1,15 @@
+D:\Projects\Tex.Downloader\bin\Debug\net10.0\Tex.Downloader.exe
+D:\Projects\Tex.Downloader\bin\Debug\net10.0\Tex.Downloader.deps.json
+D:\Projects\Tex.Downloader\bin\Debug\net10.0\Tex.Downloader.runtimeconfig.json
+D:\Projects\Tex.Downloader\bin\Debug\net10.0\Tex.Downloader.dll
+D:\Projects\Tex.Downloader\bin\Debug\net10.0\Tex.Downloader.pdb
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.AssemblyInfoInputs.cache
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.AssemblyInfo.cs
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.csproj.CoreCompileInputs.cache
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.sourcelink.json
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.dll
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\refint\Tex.Downloader.dll
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.pdb
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\Tex.Downloader.genruntimeconfig.cache
+D:\Projects\Tex.Downloader\obj\Debug\net10.0\ref\Tex.Downloader.dll
